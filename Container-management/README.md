@@ -1,4 +1,4 @@
-# 🐳 Docker Container Management
+# Docker Container Management
 
 ## Overview
 
@@ -38,6 +38,4 @@ This project is part of my Docker learning journey. It focuses on practicing Doc
 - `docker exec`
 - `docker rm`
 
-## Learning Outcome
 
-Through this practice, I gained hands-on experience in managing Docker containers and understanding the complete container lifecycle. This exercise helped me become familiar with essential Docker commands that are commonly used in DevOps environments.

@@ -25,8 +25,13 @@ This repository contains my hands-on Docker exercises, mini projects, and exampl
 - Understand Docker concepts through hands-on learning
 - Prepare for DevOps interviews
 
-## Learning Journey
 
-I will continue updating this repository as I learn more Docker concepts and build new projects.
+## Goal
 
-⭐ Feel free to explore the repository and follow my Docker learning journey.
+My goal is to learn Docker from basic to advanced and build a strong foundation for DevOps.
+
+## Author
+
+**Sanjit Bhagat**
+
+
